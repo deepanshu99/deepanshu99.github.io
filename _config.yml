@@ -1,0 +1,21 @@
+# Permalinks
+#
+# Use of `relative_permalinks` ensures post links from the index work properly.
+permalink:           pretty
+
+# Setup
+title:               Deepanshu Rautela
+tagline:             ''
+description:         This is real this is me
+url:                 'https://deepanshu99.github.io'
+baseurl:             ''
+
+# About/contact
+author:
+  name:              Deepanshu Rautela
+  url:               https://facebook.com/deepanshu.rautela
+  email:             deepanshusinghrautela@gmail.com
+
+# Custom vars
+version:             1.0.0
+ 
