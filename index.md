@@ -6,7 +6,9 @@ title: Home
 
 </style>
 
-Hey you have finally landed to my page.Hello I'm Deepanshu and I like to make stuff. To know more about me [click here]({{site.baseurl}}/contact).
+Hey you have finally landed to my blog. Hello I'm Deepanshu and I like to make stuff. My email id is `deepanshusinghrautela@gmail.com`
+
+I am using [Lanyon Theme](https://github.com/poole/lanyon).
 
 You can see my latest stuff below:
 
