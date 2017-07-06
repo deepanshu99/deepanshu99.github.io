@@ -4,7 +4,7 @@
  <title>Deepanshu Rautela</title>
  <link href="http://localhost:4000/atom.xml" rel="self"/>
  <link href="http://localhost:4000/"/>
- <updated>2017-07-04T17:18:09+05:30</updated>
+ <updated>2017-07-06T20:07:18+05:30</updated>
  <id>http://localhost:4000</id>
  <author>
    <name>Deepanshu Rautela</name>
@@ -13,90 +13,25 @@
 
  
  <entry>
-   <title>Butterfly</title>
-   <link href="http://localhost:4000/2017/07/01/butterfly/"/>
-   <updated>2017-07-01T00:00:00+05:30</updated>
-   <id>http://localhost:4000/2017/07/01/butterfly</id>
-   <content type="html">&lt;p&gt;Butterflies are insects in the macrolepidopteran clade Rhopalocera from the order Lepidoptera, which also includes moths. Adult butterflies have large, often brightly coloured wings, and conspicuous, fluttering flight. The group comprises the large superfamily Papilionoidea, which contains at least one former group, the skippers (formerly the superfamily “Hesperioidea”) and the most recent analyses suggest it also contains the moth-butterflies (formerly the superfamily “Hedyloidea”). Butterfly fossils date to the Paleocene, which was about 56 million years ago.&lt;/p&gt;
+   <title>Learning Ruby</title>
+   <link href="http://localhost:4000/2017/07/05/Learning-Ruby/"/>
+   <updated>2017-07-05T00:00:00+05:30</updated>
+   <id>http://localhost:4000/2017/07/05/Learning Ruby</id>
+   <content type="html">&lt;p&gt;Hello my beloved readers this is probably the most deeply thought post in writing. This is my first time so please don’t hesitate to point out th errors.&lt;/p&gt;
 
-&lt;p&gt;&lt;img src=&quot;https://upload.wikimedia.org/wikipedia/commons/thumb/3/3d/Fesoj_-_Papilio_machaon_%28by%29.jpg/800px-Fesoj_-_Papilio_machaon_%28by%29.jpg&quot; alt=&quot;Butterfly&quot; /&gt;&lt;/p&gt;
+&lt;p&gt;I am learing Ruby so that I could learn Ruby on Rails afterwords.&lt;/p&gt;
 
-&lt;p&gt;&lt;em&gt;Papilio machaon&lt;/em&gt;&lt;/p&gt;
+&lt;p&gt;So you might think why on earth am I learning Ruby on Rails when the entire world is shifting to Node.js and other such technologies. Well I wan’t to learn it because I fell deeply in love how Jekyll works, although I don’t understand the intricacies of Jekyll yet. Jekyll is also based on Ruby so I thought why not give it a try.&lt;/p&gt;
 
-&lt;p&gt;Butterflies have the typical four-stage insect life cycle. Winged adults lay eggs on the food plant on which their larvae, known as caterpillars, will feed. The caterpillars grow, sometimes very rapidly, and when fully developed, pupate in a chrysalis. When metamorphosis is complete, the pupal skin splits, the adult insect climbs out, and after its wings have expanded and dried, it flies off. Some butterflies, especially in the tropics, have several generations in a year, while others have a single generation, and a few in cold locations may take several years to pass through their whole life cycle.&lt;/p&gt;
+&lt;p&gt;Also I am not very proficient in Javascript (much afraid of the callback hell) and will have to learn everything from scratch again.&lt;/p&gt;
 
-&lt;p&gt;Butterflies are often polymorphic, and many species make use of camouflage, mimicry and aposematism to evade their predators. Some, like the monarch and the painted lady, migrate over long distances. Many butterflies are attacked by parasites or parasitoids, including wasps, protozoans, flies, and other invertebrates, or are preyed upon by other organisms. Some species are pests because in their larval stages they can damage domestic crops or trees; other species are agents of pollination of some plants. Larvae of a few butterflies (e.g., harvesters) eat harmful insects, and a few are predators of ants, while others live as mutualists in association with ants. Culturally, butterflies are a popular motif in the visual and literary arts.&lt;/p&gt;
+&lt;p&gt;Creating variables is damn easy compared to JS.&lt;/p&gt;
 
-&lt;p&gt;&lt;img src=&quot;https://upload.wikimedia.org/wikipedia/commons/thumb/2/22/Common_brimstone_butterfly_%28Gonepteryx_rhamni%29_male_in_flight.jpg/1024px-Common_brimstone_butterfly_%28Gonepteryx_rhamni%29_male_in_flight.jpg&quot; title=&quot;Cute Butterflies&quot; /&gt;&lt;/p&gt;
+&lt;p&gt;Instead of &lt;code class=&quot;highlighter-rouge&quot;&gt;var oranges  = 10&lt;/code&gt;&lt;/p&gt;
 
-&lt;table class=&quot;wikitable&quot;&gt;&lt;br /&gt;
-&lt;caption&gt;Butterfly families&lt;/caption&gt;
-&lt;tr&gt;
-&lt;th&gt;Family&lt;/th&gt;
-&lt;th&gt;Common name&lt;/th&gt;
-&lt;th&gt;Characteristics&lt;/th&gt;
-&lt;th&gt;Image&lt;/th&gt;
-&lt;/tr&gt;
-&lt;tr&gt;
-&lt;td&gt;&lt;a href=&quot;/wiki/Hedylidae&quot; title=&quot;Hedylidae&quot;&gt;Hedylidae&lt;/a&gt;&lt;/td&gt;
-&lt;td&gt;American moth-butterflies&lt;/td&gt;
-&lt;td&gt;Small, brown, like &lt;a href=&quot;/wiki/Geometridae&quot; class=&quot;mw-redirect&quot; title=&quot;Geometridae&quot;&gt;geometrid moths&lt;/a&gt;; antennae not clubbed; long slim abdomen&lt;/td&gt;
-&lt;td&gt;&lt;a href=&quot;/wiki/File:Macrosoma_bahiata.jpg&quot; class=&quot;image&quot;&gt;&lt;img alt=&quot;Macrosoma bahiata.jpg&quot; src=&quot;//upload.wikimedia.org/wikipedia/commons/thumb/2/2f/Macrosoma_bahiata.jpg/100px-Macrosoma_bahiata.jpg&quot; width=&quot;100&quot; height=&quot;75&quot; srcset=&quot;//upload.wikimedia.org/wikipedia/commons/thumb/2/2f/Macrosoma_bahiata.jpg/150px-Macrosoma_bahiata.jpg 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/2/2f/Macrosoma_bahiata.jpg/200px-Macrosoma_bahiata.jpg 2x&quot; data-file-width=&quot;640&quot; data-file-height=&quot;480&quot; /&gt;&lt;/a&gt;&lt;/td&gt;
-&lt;/tr&gt;
-&lt;tr&gt;
-&lt;td&gt;&lt;a href=&quot;/wiki/Hesperiidae&quot; class=&quot;mw-redirect&quot; title=&quot;Hesperiidae&quot;&gt;Hesperiidae&lt;/a&gt;&lt;/td&gt;
-&lt;td&gt;Skippers&lt;/td&gt;
-&lt;td&gt;Small, darting flight; clubs on antennae hooked backwards&lt;/td&gt;
-&lt;td&gt;&lt;a href=&quot;/wiki/File:Hesperia_comma-01_(xndr).jpg&quot; class=&quot;image&quot;&gt;&lt;img alt=&quot;Hesperia comma-01 (xndr).jpg&quot; src=&quot;//upload.wikimedia.org/wikipedia/commons/thumb/0/02/Hesperia_comma-01_%28xndr%29.jpg/100px-Hesperia_comma-01_%28xndr%29.jpg&quot; width=&quot;100&quot; height=&quot;67&quot; srcset=&quot;//upload.wikimedia.org/wikipedia/commons/thumb/0/02/Hesperia_comma-01_%28xndr%29.jpg/150px-Hesperia_comma-01_%28xndr%29.jpg 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/0/02/Hesperia_comma-01_%28xndr%29.jpg/200px-Hesperia_comma-01_%28xndr%29.jpg 2x&quot; data-file-width=&quot;1512&quot; data-file-height=&quot;1008&quot; /&gt;&lt;/a&gt;&lt;/td&gt;
-&lt;/tr&gt;
-&lt;tr&gt;
-&lt;td&gt;&lt;a href=&quot;/wiki/Lycaenidae&quot; title=&quot;Lycaenidae&quot;&gt;Lycaenidae&lt;/a&gt;&lt;/td&gt;
-&lt;td&gt;Blues, coppers, hairstreaks&lt;/td&gt;
-&lt;td&gt;Small, brightly coloured; often have false heads with eyespots and small tails resembling antennae&lt;/td&gt;
-&lt;td&gt;&lt;a href=&quot;/wiki/File:Maculinea_arion_Large_Blue_Upperside_SFrance_2009-07-18.jpg&quot; class=&quot;image&quot;&gt;&lt;img alt=&quot;Maculinea arion Large Blue Upperside SFrance 2009-07-18.jpg&quot; src=&quot;//upload.wikimedia.org/wikipedia/commons/thumb/8/8f/Maculinea_arion_Large_Blue_Upperside_SFrance_2009-07-18.jpg/100px-Maculinea_arion_Large_Blue_Upperside_SFrance_2009-07-18.jpg&quot; width=&quot;100&quot; height=&quot;82&quot; srcset=&quot;//upload.wikimedia.org/wikipedia/commons/thumb/8/8f/Maculinea_arion_Large_Blue_Upperside_SFrance_2009-07-18.jpg/150px-Maculinea_arion_Large_Blue_Upperside_SFrance_2009-07-18.jpg 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/8/8f/Maculinea_arion_Large_Blue_Upperside_SFrance_2009-07-18.jpg/200px-Maculinea_arion_Large_Blue_Upperside_SFrance_2009-07-18.jpg 2x&quot; data-file-width=&quot;1247&quot; data-file-height=&quot;1021&quot; /&gt;&lt;/a&gt;&lt;/td&gt;
-&lt;/tr&gt;
-&lt;tr&gt;
-&lt;td&gt;&lt;a href=&quot;/wiki/Nymphalidae&quot; title=&quot;Nymphalidae&quot;&gt;Nymphalidae&lt;/a&gt;&lt;/td&gt;
-&lt;td&gt;Brush-footed or four-footed butterflies&lt;/td&gt;
-&lt;td&gt;Usually have reduced forelegs, so appear four-legged; often brightly coloured&lt;/td&gt;
-&lt;td&gt;&lt;a href=&quot;/wiki/File:AD2009Aug01_Vanessa_atalanta_01.jpg&quot; class=&quot;image&quot;&gt;&lt;img alt=&quot;AD2009Aug01 Vanessa atalanta 01.jpg&quot; src=&quot;//upload.wikimedia.org/wikipedia/commons/thumb/4/4e/AD2009Aug01_Vanessa_atalanta_01.jpg/100px-AD2009Aug01_Vanessa_atalanta_01.jpg&quot; width=&quot;100&quot; height=&quot;67&quot; srcset=&quot;//upload.wikimedia.org/wikipedia/commons/thumb/4/4e/AD2009Aug01_Vanessa_atalanta_01.jpg/150px-AD2009Aug01_Vanessa_atalanta_01.jpg 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/4/4e/AD2009Aug01_Vanessa_atalanta_01.jpg/200px-AD2009Aug01_Vanessa_atalanta_01.jpg 2x&quot; data-file-width=&quot;3553&quot; data-file-height=&quot;2380&quot; /&gt;&lt;/a&gt;&lt;/td&gt;
-&lt;/tr&gt;
-&lt;tr&gt;
-&lt;td&gt;&lt;a href=&quot;/wiki/Papilionidae&quot; class=&quot;mw-redirect&quot; title=&quot;Papilionidae&quot;&gt;Papilionidae&lt;/a&gt;&lt;/td&gt;
-&lt;td&gt;Swallowtails&lt;/td&gt;
-&lt;td&gt;Often have 'tails' on wings; caterpillar generates foul taste with &lt;a href=&quot;/wiki/Osmeterium&quot; title=&quot;Osmeterium&quot;&gt;osmeterium&lt;/a&gt; organ; pupa supported by silk girdle&lt;/td&gt;
-&lt;td&gt;&lt;a href=&quot;/wiki/File:Papilio_troilus01.jpg&quot; class=&quot;image&quot;&gt;&lt;img alt=&quot;Papilio troilus01.jpg&quot; src=&quot;//upload.wikimedia.org/wikipedia/commons/thumb/8/8c/Papilio_troilus01.jpg/100px-Papilio_troilus01.jpg&quot; width=&quot;100&quot; height=&quot;86&quot; srcset=&quot;//upload.wikimedia.org/wikipedia/commons/thumb/8/8c/Papilio_troilus01.jpg/150px-Papilio_troilus01.jpg 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/8/8c/Papilio_troilus01.jpg/200px-Papilio_troilus01.jpg 2x&quot; data-file-width=&quot;320&quot; data-file-height=&quot;274&quot; /&gt;&lt;/a&gt;&lt;/td&gt;
-&lt;/tr&gt;
-&lt;tr&gt;
-&lt;td&gt;&lt;a href=&quot;/wiki/Pieridae&quot; title=&quot;Pieridae&quot;&gt;Pieridae&lt;/a&gt;&lt;/td&gt;
-&lt;td&gt;Whites and allies&lt;/td&gt;
-&lt;td&gt;Mostly white, yellow or orange; some serious pests of &lt;i&gt;&lt;a href=&quot;/wiki/Brassica&quot; title=&quot;Brassica&quot;&gt;Brassica&lt;/a&gt;&lt;/i&gt;; pupa supported by silk girdle&lt;/td&gt;
-&lt;td&gt;&lt;a href=&quot;/wiki/File:Large_white_spread_wings.jpg&quot; class=&quot;image&quot;&gt;&lt;img alt=&quot;Large white spread wings.jpg&quot; src=&quot;//upload.wikimedia.org/wikipedia/commons/thumb/f/ff/Large_white_spread_wings.jpg/100px-Large_white_spread_wings.jpg&quot; width=&quot;100&quot; height=&quot;74&quot; srcset=&quot;//upload.wikimedia.org/wikipedia/commons/thumb/f/ff/Large_white_spread_wings.jpg/150px-Large_white_spread_wings.jpg 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/f/ff/Large_white_spread_wings.jpg/200px-Large_white_spread_wings.jpg 2x&quot; data-file-width=&quot;2083&quot; data-file-height=&quot;1545&quot; /&gt;&lt;/a&gt;&lt;/td&gt;
-&lt;/tr&gt;
-&lt;tr&gt;
-&lt;td&gt;&lt;a href=&quot;/wiki/Riodinidae&quot; title=&quot;Riodinidae&quot;&gt;Riodinidae&lt;/a&gt;&lt;/td&gt;
-&lt;td&gt;Metalmarks&lt;/td&gt;
-&lt;td&gt;Often have metallic spots on wings; often conspicuously coloured with black, orange and blue&lt;/td&gt;
-&lt;td&gt;&lt;a href=&quot;/wiki/File:Necyria_bellona_manco_NovaraExpZoologischeTheilLepidopteraAtlasTaf36.jpg&quot; class=&quot;image&quot;&gt;&lt;img alt=&quot;Necyria bellona manco NovaraExpZoologischeTheilLepidopteraAtlasTaf36.jpg&quot; src=&quot;//upload.wikimedia.org/wikipedia/commons/thumb/c/c0/Necyria_bellona_manco_NovaraExpZoologischeTheilLepidopteraAtlasTaf36.jpg/100px-Necyria_bellona_manco_NovaraExpZoologischeTheilLepidopteraAtlasTaf36.jpg&quot; width=&quot;100&quot; height=&quot;74&quot; srcset=&quot;//upload.wikimedia.org/wikipedia/commons/thumb/c/c0/Necyria_bellona_manco_NovaraExpZoologischeTheilLepidopteraAtlasTaf36.jpg/150px-Necyria_bellona_manco_NovaraExpZoologischeTheilLepidopteraAtlasTaf36.jpg 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/c/c0/Necyria_bellona_manco_NovaraExpZoologischeTheilLepidopteraAtlasTaf36.jpg/200px-Necyria_bellona_manco_NovaraExpZoologischeTheilLepidopteraAtlasTaf36.jpg 2x&quot; data-file-width=&quot;522&quot; data-file-height=&quot;387&quot; /&gt;&lt;/a&gt;&lt;/td&gt;
-&lt;/tr&gt;
-&lt;/table&gt;
-</content>
- </entry>
- 
- <entry>
-   <title>What's Jekyll?</title>
-   <link href="http://localhost:4000/2013/12/31/whats-jekyll/"/>
-   <updated>2013-12-31T00:00:00+05:30</updated>
-   <id>http://localhost:4000/2013/12/31/whats-jekyll</id>
-   <content type="html">&lt;p&gt;&lt;a href=&quot;http://jekyllrb.com&quot;&gt;Jekyll&lt;/a&gt; is a static site generator, an open-source tool for creating simple yet powerful websites of all shapes and sizes. From &lt;a href=&quot;https://github.com/mojombo/jekyll/blob/master/README.markdown&quot;&gt;the project’s readme&lt;/a&gt;:&lt;/p&gt;
+&lt;p&gt;&lt;code class=&quot;highlighter-rouge&quot;&gt;oranges = 10 &lt;/code&gt; is used to declare and initialise the variable.&lt;/p&gt;
 
-&lt;blockquote&gt;
-  &lt;p&gt;Jekyll is a simple, blog aware, static site generator. It takes a template directory […] and spits out a complete, static website suitable for serving with Apache or your favorite web server. This is also the engine behind GitHub Pages, which you can use to host your project’s page or blog right here from GitHub.&lt;/p&gt;
-&lt;/blockquote&gt;
-
-&lt;p&gt;It’s an immensely useful tool and one we encourage you to use here with Lanyon.&lt;/p&gt;
-
-&lt;p&gt;Find out more by &lt;a href=&quot;https://github.com/mojombo/jekyll&quot;&gt;visiting the project on GitHub&lt;/a&gt;.&lt;/p&gt;
+&lt;p&gt;For now I’m referring &lt;a href=&quot;https://learnrubythehardway.org/book&quot;&gt;learnrubythehardway.org&lt;/a&gt;.&lt;/p&gt;
 </content>
  </entry>
  
